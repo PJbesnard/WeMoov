@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1065077918794",
+    "firebase_url": "https://wemouv-c638a.firebaseio.com",
+    "project_id": "wemouv-c638a",
+    "storage_bucket": "wemouv-c638a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065077918794:android:2209c11fbf55778a",
+        "android_client_info": {
+          "package_name": "fr.corbiko.wemouv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065077918794-svghl68foa9h9qqhlt3q1t42jfc6hp30.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "fr.corbiko.wemouv",
+            "certificate_hash": "7d7934446ac74b9a8da74646b65a7975307919fa"
+          }
+        },
+        {
+          "client_id": "1065077918794-qtssuvqtngba0gsms3e5mb5q49m9368m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBC16Nxi0ujMKLqIhunJ35ud1bPfNY2_Vo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065077918794-qtssuvqtngba0gsms3e5mb5q49m9368m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
