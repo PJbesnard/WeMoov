@@ -28,7 +28,7 @@ import fr.corbiko.wemouv.fragments.ListFragment;
 import fr.corbiko.wemouv.models.Establishment;
 
 public class EtabClickActivity extends AppCompatActivity {
-
+    private String string;
    private ImageView iv;
    private TextView name, description;
    private String images_estab;
@@ -41,6 +41,7 @@ public class EtabClickActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        string = "Truc";
         super.onCreate(savedInstanceState);
         Mapbox.getInstance(this, "pk.eyJ1Ijoid2Vtb3V2IiwiYSI6ImNqcGgxN21tZjBwYWgzcWxxZ242NHd5NjkifQ.dbudKtF6QmygxeD1osCvbA");
         setContentView(R.layout.activity_etab_click);
