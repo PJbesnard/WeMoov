@@ -21,6 +21,7 @@ public class FiltreActivity extends AppCompatActivity implements View.OnClickLis
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_filtre);
+        // test
 
         /* Recuperer les cardview */
         image_date_today = findViewById(R.id.image_date_today);
